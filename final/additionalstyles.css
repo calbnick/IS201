@@ -1,0 +1,57 @@
+
+
+#pid{
+    font-weight:bolder;
+    font-style: italic;
+}
+
+iframe{
+    opacity: 100%;
+}
+
+
+.Header{
+    text-align: center;
+    font-size: xx-large;
+    background-color: blanchedalmond;
+    margin-left: 210px;
+    margin-right: 210px;
+}
+
+.back{
+    text-align: left;
+    font-size: medium;
+    margin-left: 30px;
+}
+
+.main{
+
+
+    margin-left: 60px;
+    margin-right: 60px;
+    border-color: whitesmoke;
+    text-align: center;
+    opacity: 100%;
+    border:0px solid rgba(245, 245, 245, .8)
+
+    
+}
+
+.full{
+    opacity: 0%;
+    border: 0px;
+}
+
+iframe{
+    opacity: 100%;
+    border-color: whitesmoke;
+    opacity: 100%;
+    border: 150px solid rgba(245, 245, 245, .8)
+}
+
+.full{
+    opacity: 0%;
+    border: 0px;
+}
+
+
